@@ -1,0 +1,14 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "Projeto To-Do",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Vinicius Aquinoo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
